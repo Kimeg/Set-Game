@@ -2,7 +2,7 @@ import numpy as np
 import random
 import pygame
 import sys
-               
+#test     
 screen_width = 800;screen_height = 600
 message_x_left = screen_width-260;message_y_top = 100
 noset_x_left = 600;noset_x_right = 700;noset_y_top = 200;noset_y_down = 250;noset_width = 100;noset_height = 50
