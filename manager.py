@@ -74,7 +74,6 @@ class Manager:
                         if button.rect.collidepoint(x, y):
                             if button.text==RESET_NAME:
                                 self.reset_game()
-                                self.t0 = time.time()
                             elif button.text==NOSET_NAME:
                                 self.game.noset_clicked = True 
                             elif button.text==EXIT_NAME:
