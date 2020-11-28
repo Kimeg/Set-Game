@@ -4,7 +4,9 @@ The set game involves one or more players in finding sets under specified condit
 How to play : Download the files and run "set_game.py"
 
 Rule       : Find three cards which can be considered as a "set".
+
 Attributes : Shape (square, triangle, circle) , Color (red, yellow, blue) , Background Color (white, brown, black)
+
 Criteria   : A set consists of three cards that satisfy one of the following conditions.
 
 1. All three cards share same elements in one of the attributes (ex. all reds but different elements in other attributes for example)
