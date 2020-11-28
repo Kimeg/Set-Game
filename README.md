@@ -18,8 +18,9 @@ Criteria   : A set consists of three cards that satisfy one of the following con
 (different colors, shapes, and background colors)
 
 Buttons    : 
-Shuffle (shuffles the board in a random fashion)
+
+1. Shuffle (shuffles the board in a random fashion)
              
-             No set! (Click this if you have found all sets thus there are no remaining sets left on the board)
+2. No set! (Click this if you have found all sets thus there are no remaining sets left on the board)
              
-             Good bye  (Thank you for playing, there will be improvements made for better quality.)
+3. Good bye  (Thank you for playing, there will be improvements made for better quality.)
